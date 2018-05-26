@@ -1,11 +1,11 @@
 // Initial State
 const initialState = {};
 
-const HomeReducer = (state = initialState, action) => {
+const AboutReducer = (state = initialState, action) => {
   switch (action.type) {
     default:
       return state;
   }
 };
 
-export default HomeReducer;
+export default AboutReducer;

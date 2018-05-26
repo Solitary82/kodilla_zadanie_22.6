@@ -1,5 +1,5 @@
 .header {
-  background: #eee url('../../header-bk.png') center;
+  background: #ddd url('../../header-bk.png') center;
   background-size: cover;
   border-bottom: 1px solid #ccc;
 }
@@ -20,7 +20,7 @@
 
 .site-title a {
   text-decoration: none;
-  color: #FFF;
+  color: #000;
 }
 
 .add-post-button {
@@ -49,7 +49,7 @@
   margin: 10px;
   padding: 5px;
   cursor: pointer;
-  color: #fff;
+  color: #000;
 }
 
 .language-switcher li:first-child {
